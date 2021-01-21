@@ -3,7 +3,8 @@ Artem Karenskiy
 
 Mobile: +375(29)123-53-90  
 Email: akarenskiy@gmail.com  
-Birthday: May 8, 1998
+Birthday: May 8, 1998  
+LinkedIn: [karenski-artem](https://www.linkedin.com/in/karenski-artem)
 
 About
 ----
