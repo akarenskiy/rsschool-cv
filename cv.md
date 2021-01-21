@@ -8,9 +8,10 @@ LinkedIn: [karenski-artem](https://www.linkedin.com/in/karenski-artem)
 
 About
 ----
-I am a software developer. My main competence is backend development. Now improving my skills in frontend development
+I am a software developer. My main competence is backend development. Now improving my skills in frontend development.  
+My Goal is continue to develop as a specialist, exploring new areas and gaining new competencies.
 
-**Goal:** continue to develop as a specialist, exploring new areas and gaining new competencies
+At 
  
 Skills
 ----
@@ -49,7 +50,7 @@ Skills
 
 - punctuality 
 - ability to admit my mistakes
-- reading technical books for self-development
+- reading technical books for self-developments
 
 Code
 ----
@@ -87,4 +88,5 @@ Education
 Languages
 ----
 - Russian (native)
+- Belorussian
 - English (intermediate)
